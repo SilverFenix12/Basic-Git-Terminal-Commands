@@ -21,5 +21,8 @@ Initially you have to navigate to the folder you are going to work with in GitHu
   <li><strong>git checkout --file_name</strong> - Discards changes in file_name.</li>
   <li><strong>git checkout commit_number file_name</strong> - Reverts to a previous version of file_name contained in the commit with commit_number. (note only the first 7 digits are required for the commit number). </li>
   <li><strong>git reset HEAD file_name</strong> - Removes a file from stage area. </li>
+  <li><strong>git remote add origin link_address </strong> - sets our online repository as origin to push commits with changes.<li>
+  <li><strong>git push -u origin master</strong> - pushes the contents of the local git repository to the “origin” set with git remote.<li>
+  <li><strong>git clone link_address </strong> - downloads a copy of a repository and sets it in current folder.<li>
 </ul>
   <li><strong></strong> </li>
