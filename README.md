@@ -10,12 +10,12 @@ Initially you have to navigate to the folder you are going to work with in GitHu
   <li><strong>git add .</strong> - Adds files/folders in current directory to staging area. </li>
   <li><strong>git commit</strong> - commit the staged files/folders changes to the git repository.
       <ol>
-        <li>option '-m message'</li> - Adds a message to our commit.
+        <li>option '<strong>-m message<strong>' - Adds a message to our commit. </li>
       </ol>
   </li>
-  <li><strong></strong>git log</li> - Shows a list of all the commits made to the repository.
+  <li><strong>git log</strong> - Shows a list of all the commits made to the repository.</li>
       <ol>
-        <li>option '-- oneline'</li> - Shows a shorter version of that list.
+        <li>option '<strong>-- oneline<strong>' - Shows a shorter version of that list.</li>
       </ol>
   </li>
 </ul>
