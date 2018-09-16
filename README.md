@@ -5,8 +5,13 @@ Initially you have to navigate to the folder you are going to work with in GitHu
 
 <h2>Git Terminal Commands:</h2>
 <ul>
+  <li><strong>git config --global user.name "Your Name"</strong> - Sets the username in our configuration for Git.</li>
+  <li><strong>git config --global user.email "your email address"</strong> - Sets the username in our configuration for Git.</li>
+  <li><strong>git config --list</strong> - Shows the basic config we have set for Git.</li>
+  
   <li><strong>git init</strong> - Initializes the current folder as a git repository and sets it as Master.</li>
   <li><strong>git status</strong> - Gives us the current status of the folder we are in.</li>
+  
   <li><strong>git add .</strong> - Adds files/folders in current directory to staging area, setting them for commit. </li>
   <li><strong>git commit</strong> - commit the staged files/folders changes to the git repository.
       <ol>
