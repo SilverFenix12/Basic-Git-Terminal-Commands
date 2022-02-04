@@ -30,4 +30,6 @@ Initially you have to navigate to the folder you are going to work with in GitHu
   <li><strong>git push -u origin master</strong> - pushes the contents of the local git repository to the “origin” set with git remote.</li>
   <li><strong>git clone link_address </strong> - downloads a copy of a repository and sets it in current folder.</li>
 </ul>
-  <li><strong></strong> </li>
+
+<h2>Git flow for branching:</h2>
+visit <a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank"> Git Flow Guide </a>
